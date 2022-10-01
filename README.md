@@ -15,6 +15,3 @@
 
 ## Visitor Count 🧿
 ![](https://profile-counter.glitch.me/{bl33h}/count.svg)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?bl33h=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
