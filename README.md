@@ -91,21 +91,11 @@
 
 <br/>  
 
-
-## Additional elements & support 🧿
+## Music taste & support 🧿
   
-
 <br/>  
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316p2srhksvasmolgkkigyfbbtre&cover_image=true&theme=default&show_offline=false&background_color=373f51&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
-
 <br/>  
-
-![](https://profile-counter.glitch.me/{bl33h}/count.svg)
-  
-
-<br/>  
-
 <div align="center">
             <a href="https://www.buymeacoffee.com/bl33h" target="_blank" style="display: inline-block;">
                 <img
@@ -114,3 +104,9 @@
                 />
             </a></div>
 <br />
+
+## Visitor count 👁️‍🗨️
+
+<br/>  
+<div align="center"><img src="https://profile-counter.glitch.me/{bl33h}/count.svg" /></div>  
+<br/>  
