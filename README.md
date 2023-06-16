@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to art, i love the topic!
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- 🍂 I tend to use tabs over spaces  
   
 
 <br/>  
