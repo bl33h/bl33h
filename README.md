@@ -6,7 +6,7 @@
 ### <div align="center">I'm Sara, a computer science student based in Guatemala with a strong passion for the technologies related to the data base construction and UI/UX 🛸</div>  
   
 
-- 💫 I’m currently working on [University Agreements Site](https://github.com/bl33h/universityAgreements)  
+- 💫 I’m currently working on a [University Agreements Site](https://github.com/bl33h/universityAgreements)  
   
 
 - 🌀 I’m currently learning how to use Blender  
@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set 🧩 
+## My skill set 🧩 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
