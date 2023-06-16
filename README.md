@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/mc2I6lF.png" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/ssVpXhn.png" align="center" style="width: 60%" />
 </div>  
   
 
@@ -21,7 +21,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set 🧩 
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -101,9 +101,7 @@
 
 <br/>  
 
-<div align="center">
 ![](https://profile-counter.glitch.me/{bl33h}/count.svg)
-</div>  
   
 
 <br/>  
