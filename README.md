@@ -12,7 +12,7 @@
 - 🌀 I’m currently learning how to use Blender  
   
 
-- ❓ Ask me about anything related to art, i love painting  
+- ❓ Ask me about anything related to art, i love the topic!
   
 
 - ⚡ Fun fact: I use tabs over spaces  
