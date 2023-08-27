@@ -78,12 +78,12 @@
 <a href="https://codepen.com/bl33h" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
+<a href="https://lichess.org/saraech">
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lichess&color=000000&logo=Lichess&logoColor=FFFFFF&label=" alt="Lichess" />
+</a>
 <a href="https://stackoverflow.com/users/22080867/bl33h" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-<a 
-href="https://lichess.org/saraech"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lichess&color=000000&logo=Lichess&logoColor=FFFFFF&label=" alt="Lichess" />
-</a>
+</a> 
 </div>  
   
 
