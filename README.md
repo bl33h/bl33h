@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">I'm Sara, a computer science student based in Guatemala with a strong passion for the technologies related to the data base construction and UI/UX 🛸</div>  
+# <div align="center">I'm Sara, a computer science student based in Guatemala with a strong passion for the technologies related to the data base construction and UI/UX 🛸</div>  
   
 - 🏵️ You can check my personal website [here](https://whosbl33h.netlify.app/)
 
