@@ -96,6 +96,8 @@
 
 <br/>  
 
+<img src="https://raw.githubusercontent.com/bl33h/bl33h/output/snake.svg" alt="Snake animation" />
+
 ## Musical taste & support 🧿
   
 <br/>  
