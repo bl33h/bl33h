@@ -7,7 +7,7 @@
   
 - 🏵️ You can check my personal website [here](https://whosbl33h.netlify.app/)
 
-- 💫 I’m currently working on a [reviews Site](https://github.com/bl33h/visitOurLands)  
+- 💫 I’m currently working on a [few shaders](https://github.com/bl33h/outOfSpaceShaders)  
   
 
 - 🌀 I’m currently learning how to use Blender  
