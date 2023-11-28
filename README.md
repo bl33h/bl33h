@@ -93,10 +93,10 @@
 ## Github stats ⚡  
 ![](https://github-readme-stats.vercel.app/api?username=bl33h&theme=calm)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bl33h&layout=compact&theme=calm&langs_count=10)
-
-<br/>  
-
 <img src="https://raw.githubusercontent.com/bl33h/bl33h/output/snake.svg" alt="Snake animation" />
+
+###
+<br/>  
 
 ## Musical taste & support 🧿
   
