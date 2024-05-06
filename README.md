@@ -3,20 +3,13 @@
 </div>  
   
 
-## <div align="center">I'm Sara, a computer science student based in Guatemala with a strong passion for the technologies related to the data base construction and UI/UX 🛸</div>  
+## <div align="center">My name is Sara, I'm 21 and a junior computer science student based in Guatemala. I have a strong passion for the technologies related to QA and AI (: </div>  
   
-- 🏵️ You can check my personal website [here](https://whosbl33h.netlify.app/)
+- 🧿 You can check my personal website [here](https://whosbl33h.netlify.app/)
 
-- 💫 I’m currently working on a [few shaders](https://github.com/bl33h/outOfSpaceShaders)  
-  
+- 🌀 I’m currently working on a [a compiler](https://github.com/bl33h/languageDesign)
 
-- 🌀 I’m currently learning how to use Blender  
-  
-
-- ❓ Ask me about anything related to art, i love the topic!
-  
-
-- 🍂 I tend to use tabs over spaces  
+- 🪼 Ask me about anything related to art, i love the topic! You can also check my [drawings account](https://www.instagram.com/arasartara/)
   
 
 <br/>  
