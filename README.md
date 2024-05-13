@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My skill set 🩵
+## My skill set 🥏
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -60,7 +60,7 @@
 <br/>  
 
 
-## Let's get in touch 🥏
+## Let's get in touch 🩵
 <div align="center">
 <a href="https://linkedin.com/in/saraech" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
