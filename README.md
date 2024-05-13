@@ -88,7 +88,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bl33h&layout=compact&theme=calm&langs_count=10)
 <br/>  
 
-## Musical taste & support 🪬
+## Music & support 🪬
   
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316p2srhksvasmolgkkigyfbbtre&cover_image=true&theme=default&show_offline=false&background_color=373f51&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
