@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My skill set 🧩 
+## My skill set 🩵
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
