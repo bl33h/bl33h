@@ -92,8 +92,9 @@
   
 <br/>  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=316p2srhksvasmolgkkigyfbbtre&cover_image=true&theme=default&show_offline=false&background_color=373f51&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316p2srhksvasmolgkkigyfbbtre&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=cdcdfe&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=316p2srhksvasmolgkkigyfbbtre&redirect=true)
 <br/>  
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316p2srhksvasmolgkkigyfbbtre&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=cdcdfe&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=316p2srhksvasmolgkkigyfbbtre&redirect=true)
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/bl33h" target="_blank" style="display: inline-block;">
