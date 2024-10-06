@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">My name's Sara, I'm 21 and a junior computer science student based in Guatemala. I have a strong passion for the technologies related to QA and AI (: </div>  
+## <div align="center">My name's Sara, I'm 22 and a junior computer science student based in Guatemala. I have a strong passion for the technologies related to QA and AI (: </div>  
   
 - 🧿 You can check my personal website [here](https://whosbl33h.netlify.app/)
 
