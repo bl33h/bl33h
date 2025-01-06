@@ -100,7 +100,7 @@
             </a></div>
 <br />
 
-## Visitor count 🧿
+## Visitor count 💤
 
 <br/>  
 <div align="center"><img src="https://profile-counter.glitch.me/{bl33h}/count.svg" /></div>  
