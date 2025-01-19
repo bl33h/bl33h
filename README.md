@@ -1,10 +1,10 @@
 ## <div align="center">My name's Sara, I'm 22 and a senior computer science student based in Guatemala. I have a strong passion for the technologies related to QA and AI (: </div>  
   
-- 🧿 You can check my personal website [here](https://whosbl33h.netlify.app/)
+🧿 You can check my personal website [here](https://whosbl33h.netlify.app/)
 
-- 🌀 I’m currently working on a [a compiler](https://github.com/bl33h/languageDesign)
+🌀 I’m currently working on a [a compiler](https://github.com/bl33h/languageDesign)
 
-- 🪼 Ask me about anything related to art, i love the topic! You can also check my [drawings account](https://www.instagram.com/arasartara/)
+🪼 Ask me about anything related to art, i love the topic! You can also check my [drawings account](https://www.instagram.com/arasartara/)
   
 <a href="https://www.animatedimages.org/cat-unicorns-477.htm"><img src="https://www.animatedimages.org/data/media/477/animated-unicorn-image-0045.gif" border="0" alt="animated-unicorn-image-0045" /></a>
 <br/>  
